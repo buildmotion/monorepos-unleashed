@@ -13,19 +13,86 @@ Key Takeaways:
 
 Unlock the true potential of monorepos to transform your development process, boost productivity, and accelerate innovation. Join us for this enlightening session and elevate your software engineering to new heights.
 
->    - Angular: May 2018
->   - Nx: February 2019
+## Introduction
 
-Introduction
-What is a Monorepo?
-History of Angular Workspace
-Single Configuration
-Code Sharing
-Dependency Management
-Rapid Development/Iteration
-Tools
-Practice
-Collaboration
-Versioning
-Upgrades/Migrations
-Productivity
+- Brief overview of monorepos
+- Importance in modern software development
+- Objective of the talk
+
+## What is a Monorepo?
+
+- Definition and concept
+- Historical context
+- Comparison with polyrepo
+
+## History of Angular Workspace (Monorepo)
+
+- Angular: May 2018
+  - Angular version 6
+- Nx: February 2019
+  - Nx version 1.0 Beta
+
+## Single Configuration
+
+- TypeScript
+- Linting
+- Testing
+
+## Code Sharing
+
+- Cross-cutting concerns
+  - Error Handling
+  - Logging
+  - Notifications
+  - Http (e.g., Client, Interceptors)
+- Shared libraries
+  - UI Components, Pipes, Directives
+  - UI Features (e.g., Security)
+  - Layouts
+  - Assets and Styles
+  - Validators
+  - Rules
+  - Types/Interfaces/Enums
+
+## Dependency Management
+
+- Nx Tags
+- Nx Dependency Graph (see: `nx dep-graph`)
+
+## Tools
+
+- CLI/Nx Console
+- Build
+- Test
+  - Specification
+  - E2E
+  - Code Coverage
+- Serve
+- Lint
+- Package
+- Formatting
+
+## Practice
+
+- Code Organization
+- Convention and Consistency
+- Reusability
+- Reliability
+- Quality
+
+## Collaboration
+
+## Versioning
+
+- Shared
+
+## Upgrades/Migrations - "No project left behind"
+
+## Productivity
+
+- Computational Caching
+- Parallelization
+
+## Rapid Development/Iteration
+
+- Debugging
