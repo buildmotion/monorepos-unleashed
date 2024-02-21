@@ -1,0 +1,23 @@
+/* custom-theme.css */
+:root {
+    --color-background: #f7f7f7;
+    --color-primary: #333;
+    --color-secondary: #005cc5;
+    --color-tertiary: #00875a;
+    --font-family: 'Source Code Pro Light', 'Helvetica Neue', Arial, sans-serif;
+}
+
+section {
+    background-color: var(--color-background);
+    color: var(--color-primary);
+}
+
+h1,
+h2,
+h3 {
+    color: var(--color-secondary);
+}
+
+a {
+    color: var(--color-tertiary);
+}

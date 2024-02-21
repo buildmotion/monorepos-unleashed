@@ -1,0 +1,21 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Use to create presentation using markdown.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "html": "marp monorepos-presentation.md --output monorepos-presentation.html",
+    "pdf": "marp monorepos-presentation.md --pdf --allow-local-files --output \"Vaughn, Matt, Wed.pdf\""
+  },
+  "keywords": [
+    "presentation",
+    "marp-cli",
+    "markdown"
+  ],
+  "author": "Matt Vaughn",
+  "license": "ISC",
+  "dependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
+}

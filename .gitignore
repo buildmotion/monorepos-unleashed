@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+dist/
+
+# Nx cache
+.nx/
+
+# Environment files
+*.env
+.env.*
+
+# IDE and Editor folders
+.idea/
+*.code-workspace
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+/out/
+/tmp/
