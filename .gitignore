@@ -1,6 +1,7 @@
 # Dependency directories
 node_modules/
 dist/
+*.pdf
 
 # Nx cache
 .nx/

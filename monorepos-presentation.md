@@ -21,6 +21,7 @@ class:
 - [AngularArchitecture.com](https://angulararchitecture.com)
 - [GitHub: buildmotion](https://github.com/buildmotion)
 - [X: @AngularArch](https://twitter.com/AngularArch)
+- Presentation: [https://bit.ly/monorepos-unleashed](https://bit.ly/monorepos-unleashed)
 
 
 ---
@@ -29,9 +30,15 @@ class:
 
 ![width:440px](./assets/amazing-micro-frontends-with-angular-print-ready.png)
 
-- Simplify codebase management
+- Simplify code management
 - Streamline workflows
 - Enhance collaboration
+
+---
+
+## **One Repository --> Multiple Projects**
+
+![width:840px](./assets/one-with-many.png)
 
 ---
 
@@ -41,7 +48,7 @@ class:
 
 - Enhances team collaboration (affinity)
 - Facilitates sharing of libraries and components
-- Tools: Nx Workspace
+- Tools (CLI, executors, generators)
 
 ---
 
@@ -85,10 +92,8 @@ class:
 
 ## **Resources**
 
-- Tools
-  - [Nx Workspace](https://nx.dev)
+- [Nx Workspace](https://nx.dev)
 - [AngularArchitecture.com](https://angulararchitecture.com)
-- [GitHub: buildmotion](https://github.com/buildmotion)
 - [X: @AngularArch](https://twitter.com/AngularArch)
-
+- ![width:300px](assets/bit.ly_monorepos-unleashed.png)
 ---
