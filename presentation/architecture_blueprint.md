@@ -11,7 +11,10 @@ paginate: true
 ---
 
 ## Introduction
-- Brief overview of the importance of architecture in web application development.
+- Brief overview of the importance be of architecture in web application development.
+  - expertise
+  - essentials
+  - execution
 - Outline the goals of the talk.
 
 ---
